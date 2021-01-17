@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Number Finder</string>
+    <string name="saluto">Benvenuto/a!</string>
+    <string name="info_intro1">Sto pensando a un numero tra 0 e 100.</string>
+    <string name="info_intro2">Riuscirai a indovinarlo?</string>
+    <string name="string_result">?</string>
+    <string name="button_text">PROVA</string>
+    <string name="help">Qui ti darò qualche suggerimento, se sbagli!</string>
+    <string name="play_again">VUOI GIOCARE ANCORA?</string>
+    <string name="play_again_yes">SI</string>
+    <string name="pplay_again_no">NO</string>
+</resources>
